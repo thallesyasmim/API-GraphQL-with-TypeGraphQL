@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "dev": "ts-node-dev src/server.ts"
   },
   "devDependencies": {
     "@types/mongoose": "^5.10.3",
